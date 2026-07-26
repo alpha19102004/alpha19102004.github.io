@@ -1,0 +1,67 @@
+:root {
+  --global-theme-color: #0066cc;
+  --global-hover-color: #004c99;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #4da3ff;
+  --global-hover-color: #8bc2ff;
+}
+
+/* White text inside publication venue badges only */
+.abbr,
+.abbr a {
+  color: #ffffff !important;
+}
+
+/* Publication buttons: Abs, DOI, PDF, Code, etc. */
+.bibliography .links a,
+.bibliography .links .btn {
+  display: inline-block;
+  padding: 3px 9px;
+  margin-right: 5px;
+  color: #000000 !important;
+  background: transparent !important;
+  border: 1px solid #000000 !important;
+  border-radius: 0 !important;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  text-decoration: none !important;
+}
+
+/* Hover effect */
+.bibliography .links a:hover,
+.bibliography .links .btn:hover {
+  color: #ffffff !important;
+  background: #000000 !important;
+}
+
+/* Frosted-glass navigation bar */
+nav.navbar,
+.navbar {
+  background: rgba(255, 255, 255, 0.78) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* Frosted-glass footer */
+footer,
+footer.fixed-bottom {
+  background: rgba(255, 255, 255, 0.78) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  color: #1f2937 !important;
+}
+
+footer a {
+  color: #0066cc !important;
+}
+
+/* Remove the light/dark-mode toggle from the navbar */
+#light-toggle,
+.theme-toggle,
+[data-theme-toggle] {
+  display: none !important;
+}
