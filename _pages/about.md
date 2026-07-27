@@ -76,7 +76,7 @@ latest_posts:
         Frameworks &amp; Libraries
       </td>
       <td style="padding-bottom: 0.15rem;">
-        PyTorch, Scikit-learn, TensorFlow, OpenCV, Ollama
+        PyTorch, Scikit-learn, TensorFlow, OpenCV
       </td>
     </tr>
 
