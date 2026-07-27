@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the Deep Learning and Application Lab as a Research Assistant under the supervision of [**Dr. Le Duc Anh**](https://scholar.google.com/citations?hl=vi&user=vurntaoAAAAJ).
+I have joined the Deep Learning and Application Lab as a Research Fellow under the supervision of [**Dr. Le Duc Anh**](https://scholar.google.com/citations?hl=vi&user=vurntaoAAAAJ).
