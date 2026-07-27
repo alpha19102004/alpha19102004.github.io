@@ -39,63 +39,36 @@ latest_posts:
   integrating image analysis and vision-language models (VLMs) to solve problems across diverse
   application domains.
 </p>
-
 <h4 style="margin: 0.7rem 0 0.35rem; font-size: 1.1rem; line-height: 1.2;">
   Technical Skills
 </h4>
 
-<div style="margin: 0; text-align: left; font-size: 0.93rem; line-height: 1.25;">
-  <table style="border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <td
-        style="
-          padding: 0 1rem 0.15rem 0;
-          vertical-align: top;
-          white-space: nowrap;
-          font-variant: small-caps;
-          font-size: 0.98rem;
-        "
-      >
-        Programming Languages
-      </td>
-      <td style="padding-bottom: 0.15rem;">
-        Python, C/C++, Java, LaTeX
-      </td>
-    </tr>
+<div
+  style="
+    display: grid;
+    grid-template-columns: 205px minmax(0, 1fr);
+    column-gap: 1rem;
+    row-gap: 0.2rem;
+    max-width: 590px;
+    margin: 0;
+    text-align: left;
+    font-size: 0.93rem;
+    line-height: 1.25;
+  "
+>
+  <div style="font-variant: small-caps; font-size: 0.98rem;">
+    Programming Languages
+  </div>
+  <div>Python, C/C++, Java, LaTeX</div>
 
-    <tr>
-      <td
-        style="
-          padding: 0 1rem 0.15rem 0;
-          vertical-align: top;
-          white-space: nowrap;
-          font-variant: small-caps;
-          font-size: 0.98rem;
-        "
-      >
-        Frameworks &amp; Libraries
-      </td>
-      <td style="padding-bottom: 0.15rem;">
-        PyTorch, Scikit-learn, TensorFlow, OpenCV
-      </td>
-    </tr>
+  <div style="font-variant: small-caps; font-size: 0.98rem;">
+    Frameworks &amp; Libraries
+  </div>
+  <div>PyTorch, Scikit-learn, TensorFlow, OpenCV, Ollama</div>
 
-    <tr>
-      <td
-        style="
-          padding-right: 1rem;
-          vertical-align: top;
-          white-space: nowrap;
-          font-variant: small-caps;
-          font-size: 0.98rem;
-        "
-      >
-        Tools &amp; Cloud Services
-      </td>
-      <td>
-        AWS, Google Cloud, Docker, Git
-      </td>
-    </tr>
-  </table>
+  <div style="font-variant: small-caps; font-size: 0.98rem;">
+    Tools &amp; Cloud Services
+  </div>
+  <div>AWS, Google Cloud, Docker, Git</div>
 </div>
 
