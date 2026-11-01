@@ -31,11 +31,11 @@ latest_posts:
   <strong>University of Science and Technology of Hanoi (USTH)</strong>, a public research
   university operating under the <strong>Vietnam Academy of Science and Technology (VAST)</strong>,
   where I developed a research focus in Computer Vision. I graduated with a
-  <strong>GPA of 15.1/20.0</strong>, equivalent to “Mention Bien” (with honors) under the French
+  <strong>GPA of 15.22/20.0</strong>, equivalent to “Mention Bien” (with honors) under the French
   grading scale (ECTS/Bologna). 
 </p>
 <p style="text-align: justify;">
-  My research focuses on <strong>multimodal AI and AI agents</strong>,
+  My research focuses on <strong>multimodal AI and  representation learning</strong>,
   integrating image analysis and vision-language models (VLMs) to solve problems across diverse
   application domains.
 </p>
@@ -59,7 +59,7 @@ latest_posts:
   <div style="font-variant: small-caps; font-size: 0.98rem;">
     Programming Languages
   </div>
-  <div>Python, C/C++, Java, LaTeX</div>
+  <div>Python, C, Java, LaTeX</div>
 
   <div style="font-variant: small-caps; font-size: 0.98rem;">
     Frameworks &amp; Libraries
