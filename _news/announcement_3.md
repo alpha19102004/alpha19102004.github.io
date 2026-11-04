@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the AIoT VHH Lab as a Research Assistant :sparkles: :smile:
+I have joined the University of Science and Technology of Hanoi (USTH) as a Undergraduate Research Assistant :sparkles: :smile:
